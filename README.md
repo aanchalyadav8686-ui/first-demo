@@ -1,4 +1,4 @@
 # first-demo
 This is my first GIT repository. Learning to use GIT from very basic.
 <br>
-Author :- <u>Aanchal Yadav</u>
+Author :- <b><u>Aanchal Yadav</u></b>
